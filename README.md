@@ -1,5 +1,5 @@
 # Taller-Huawei
 Se ingresan los siguientes archivos.
-Asistencia.
+Asistencia a clases.
 Codigo App.
 Certificación Huawei
